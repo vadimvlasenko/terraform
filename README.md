@@ -1,0 +1,1 @@
+I will create a new file named 'README.md' in the root directory of the repo. I will then populate the project description, technology stack, main goals, dependencies, and instructions for running locally in the 'README.md' file.
